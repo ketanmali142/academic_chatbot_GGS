@@ -84,10 +84,6 @@ Usage :
 3. Connect your Whatsapp account to the UltraMsg API.
 4. Send a message to the chatbot on Whatsapp and receive automated responses.
 
-Screenshots :
-
-Include screenshots to demonstrate how the chatbot works.
-
 
 Acknowledgements
 
