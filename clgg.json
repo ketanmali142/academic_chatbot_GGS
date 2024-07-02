@@ -1,0 +1,476 @@
+[
+    [
+        "What are the admission requirements for this college?",
+        "The admission requirements include submitting your high school transcripts, standardized test scores, and letters of recommendation."
+    ],
+    [
+        "Is there an application fee, and how can I pay it?",
+        "Yes, there is an application fee. You can pay it online through the application portal using a credit card."
+    ],
+    [
+        "What majors and programs does the college offer?",
+        "The college offers a diverse range of majors and programs. You can explore them on our website or in the college catalog."
+    ],
+    [
+        "Can I schedule a campus tour before applying?",
+        "Certainly! You can schedule a campus tour through our admissions office. Visit our website for available dates and times."
+    ],
+    [
+        "Are there any specific scholarships available for incoming students?",
+        "Yes, there are various scholarships available. Check our scholarship page for details and application procedures."
+    ],
+    [
+        "scholarships available",
+        "Yes, there are various scholarships available. Check our scholarship page for details and application procedures."
+    ],
+    [
+        "What is the deadline for submitting my application?",
+        "The application deadline is [deadline date]. Make sure to submit all required documents before this date."
+    ],
+    [
+        "Can I submit supplemental materials to enhance my application?",
+        "Yes, you can submit supplemental materials such as a portfolio or additional letters of recommendation. Check our admissions guidelines for details."
+    ],
+    [
+        "Is there an interview process as part of the admission?",
+        "While interviews are not mandatory, they are encouraged for certain programs. Check program-specific requirements for more information."
+    ],
+    [
+        "How does the college consider extracurricular activities in the admission process?",
+        "Extracurricular activities are considered as part of a holistic review process. Highlight your achievements and involvement in your application."
+    ],
+    [
+        "What is the average class size, and how much individual attention can I expect from professors?",
+        "The average class size is [average size], ensuring a personalized learning experience with ample opportunities for individual attention from professors."
+    ],
+    [
+        "Are there opportunities for undergraduate research projects?",
+        "Yes, the college encourages undergraduate research. You can collaborate with faculty members or participate in ongoing research initiatives."
+    ],
+    [
+        "send me college pic",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/IMG20221216123931.jpg?alt=media&token=980b15ad-5b8b-4835-b7fe-6ab70f4c66f2"
+    ],
+    [
+        "send me college image",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/IMG20221216123931.jpg?alt=media&token=980b15ad-5b8b-4835-b7fe-6ab70f4c66f2"
+    ],
+    [
+        "college photo",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/2021-02-18.jpg?alt=media&token=db87a3e0-9c0b-4142-88bd-5493effd9208"
+    ],
+    [
+        "main gate image",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/2021-02-18.jpg?alt=media&token=db87a3e0-9c0b-4142-88bd-5493effd9208"
+    ],
+    [
+        "send audio",
+        "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/Julun%20Yeti%20Reshimgathi%20Full%20Title%20Track%20Lyrics%20%E0%A4%9C%E0%A4%B3%E0%A4%A8%20%E0%A4%AF%E0%A4%A4%20%E0%A4%B0%E0%A4%B6%E0%A4%AE%E0%A4%97%E0%A4%A0%20%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%95%E0%A4%97%E0%A4%A4%20%E0%A4%B8%E0%A4%AA%E0%A4%B0%E0%A4%A3%20%E0%A4%B6%E0%A4%AC%E0%A4%A6%E0%A4%B0%E0%A4%9A%E0%A4%A8.mp3?alt=media&token=fe3fb100-ca6f-47aa-8191-27ff8edf4d8f"
+    ],
+    [
+        "audio",
+        "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/Julun%20Yeti%20Reshimgathi%20Full%20Title%20Track%20Lyrics%20%E0%A4%9C%E0%A4%B3%E0%A4%A8%20%E0%A4%AF%E0%A4%A4%20%E0%A4%B0%E0%A4%B6%E0%A4%AE%E0%A4%97%E0%A4%A0%20%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%95%E0%A4%97%E0%A4%A4%20%E0%A4%B8%E0%A4%AA%E0%A4%B0%E0%A4%A3%20%E0%A4%B6%E0%A4%AC%E0%A4%A6%E0%A4%B0%E0%A4%9A%E0%A4%A8.mp3?alt=media&token=fe3fb100-ca6f-47aa-8191-27ff8edf4d8f"
+    ],
+    [
+        "send document",
+        "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/p_1.pdf?alt=media&token=a677bf9d-d0a6-41fa-8005-242ed6ba992a"
+    ],
+    [
+        "document",
+        "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/p_1.pdf?alt=media&token=a677bf9d-d0a6-41fa-8005-242ed6ba992a"
+    ],
+    [
+        "how to process the pdf",
+        "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/p_1.pdf?alt=media&token=a677bf9d-d0a6-41fa-8005-242ed6ba992a"
+    ],
+    [
+        "what is the fee structure",
+        "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/fee.pdf?alt=media&token=07c2cf3e-e118-41f0-a1e6-c32e63d93c1b"
+    ],
+    [
+        "what is the image processing",
+        "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/AI%20Image%20Processing%20Project%20_%20Basic%20of%20AI.mp4?alt=media&token=cf702d3d-8552-47f7-b05b-2f6d4fba293c"
+    ],
+    [
+        "college website ",
+        "https://engg.ggsf.edu.in/"
+    ],
+    [
+        "FE 2019 syllabus",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/fe2019syllabus.pdf?alt=media&token=9d2937ba-03da-4cd7-bdc9-38684536604e"
+    ],
+    [
+        "who is the hod of computer department",
+        "Mr. Sandeep Shukla is the HOD of Computer Department"
+    ],
+    [
+        "Thank you",
+        "Thank you for contacting us,Visit Again"
+    ],
+    [
+        "Hello",
+        "Hello, how can I help you?"
+    ],
+    [
+        "cosa event details",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/Cosa%20evnet%20detailssss.jpg?alt=media&token=ed28bf24-da74-4642-bf80-60ba89a3503f"
+    ],
+    [
+        "Name of the Principal",
+        "Dr. Neelkanth G. Nikam"
+    ],
+    [
+        "Why not working",
+        "This Bot is only for college related queries"
+    ],
+    [
+        "What are the eligibility criteria for admission?",
+        "You should clear the CET exam and completed the HSC with mathematics."
+    ],
+    [
+        "Can I apply for multiple engineering branches simultaneously?",
+        "Yes,You can apply"
+    ],
+    [
+        "Can I transfer from another college to this engineering college?",
+        "Yes you can transfer but there are some criteria for such"
+    ],
+    [
+        "What documents are required for the admission process?",
+        "For which caste?"
+    ],
+    [
+        "How are placements and career services managed?",
+        "We're having multiple companies tie up with us"
+    ],
+    [
+        "Social activity ",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/Social%20activity.jpeg?alt=media&token=29cc4773-0c7d-4c42-8bde-5749a6a70e41.."
+    ],
+    [
+        "third (3rd)floor plan",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/third%20floor%20plan.jpg?alt=media&token=89ac76df-50c3-4af1-869b-307ff812bba7"
+    ],
+    [
+        "Labs (lab) available in college",
+        "THIRD FLOOR LAB \n\n301-A IOT Lab \n301-B System programming Lab \n302 Network Lab \n303 Programming Lab \n304 Software Lab \n305 Digital Electronics Lab (DELD) \n\nSECOND FLOOR LABS \n\n202 Computer Centre \n203 Language Lab"
+    ],
+    [
+        "Computer department HOD office",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-a0aba.appspot.com/o/Dipartment%20office%20pic.jpg?alt=media&token=ac5b0d18-78f5-4ffa-a06b-4d46aee3c7bd"
+    ],
+    [
+        "301-A IOT Lab",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/301A%20IOT.jpg?alt=media&token=32f89875-ebd3-4103-92d0-b19ae81a8af4"
+    ],
+    [
+        "Location of institute ",
+        "https://www.google.com/maps/dir//Guru+Gobind+Singh+College+Of+Engineering+And+Research+Centre,+Nashik+Khalsa+Educational+Complex+Guru+Gobind+Singh+Marg,+Wadala-Parhardi+Road,,+Annexe+Nashik,+Indira+Nagar+Nashik,+Maharashtra+422009/@19.9587277,73.7779481,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bddeb013af2e733:0xf9a146b2f1ffe4b0!2m2!1d73.7779481!2d19.9587277?entry=ttu"
+    ],
+    [
+        "301-B Programming Lab",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/301B%20Programming%20Lab.jpg?alt=media&token=9ab15d15-205c-4286-bba8-f915a50bb038"
+    ],
+    [
+        "302 Network Lab",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/301A%20IOT.jpg?alt=media&token=32f89875-ebd3-4103-92d0-b19ae81a8af4"
+    ],
+    [
+        "303 Programming Lab",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/303%20Programming%20Lab.jpg?alt=media&token=e1489bc3-6b0d-4f10-874f-2f53bc293454"
+    ],
+    [
+        "304 Network Lab",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/304%20Network%20Lab.jpg?alt=media&token=3ed97637-f267-4ccf-936f-e360c4e0a876"
+    ],
+    [
+        "305 Digital Electronics Lab (DELD)",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/DELD%20Lab.jpg?alt=media&token=adf61104-044a-4a91-802f-ad30a860c1b7"
+    ],
+    [
+        "Email address of institute",
+        "gcoerc.nashik@ggsf.edu.in"
+    ],
+    [
+        "2023 batch Student Placements(placed)",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/2023%20batch%20Placements.jpg?alt=media&token=eed5cd5d-7602-499c-ba6e-7da0d7b54cf9"
+    ],
+    [
+        "official website",
+        "www.ggsf.edu.in"
+    ],
+    [
+        "third floor Lcs Seminar Hall",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/LCS.jpg?alt=media&token=831830b7-5042-438f-8602-1da3b0c83250"
+    ],
+    [
+        "Placement Partner Companies",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Placement%20partner.jpg?alt=media&token=6d10c290-9b94-49fb-af31-08f00978fed5"
+    ],
+    [
+        "Training and Placement cell",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/T%20and%20p%20cell.jpg?alt=media&token=3c3e8f46-29a9-4d66-ae38-016bea4b3b3b"
+    ],
+    [
+        "First Year Computer Department Hod Office",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/first%20y%20comp%20office.jpg?alt=media&token=b415579d-eb4c-44e9-9324-1c5ae4801d30"
+    ],
+    [
+        "Contact details",
+        " 0253237276"
+    ],
+    [
+        "Principal Office",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/principal%20office.jpg?alt=media&token=c8e18e56-fd89-452f-9c89-3bfab18cc070"
+    ],
+    [
+        "Ground Floor Admin Office",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Admin%20office.jpg?alt=media&token=6ca3fefa-3591-480a-9c62-ded4d76848c0"
+    ],
+    [
+        "Vision and Mission Of the GCOERC College",
+        "Vision : An institute striving for excellence in providing transformative academic education and stimulating environment for research to enhance skills for developing intellectuals and to inculcate quality education with social and technical knowledge which will benefit the society and industrial challenges. Mission : To be a technical educational Institute in transforming aspiring engineers through rigorous course work and technical skills . To benchmark with the best global standards of quality education To enhance commitment of the faculty, staff and students by inculcating the spirit of inquiry, team work and professionalism Establish a centre of excellence to enhance academia-industry partnership, work on collaborative projects, and develop new products, services and patents. To develop globally competent students by enhancing indigenous technologies and inculcate entrepreneurship in them"
+    ],
+    [
+        "college entrance(entry)",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/college%20entry.jpg?alt=media&token=46b70c1f-2059-48be-a0fd-27ed6f723a5f"
+    ],
+    [
+        "College Two(2) wheeler parking",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/2%20wheeler%20parking.jpg?alt=media&token=ce3abb6b-8fe8-4b7f-ac9a-ddcd3a046a76"
+    ],
+    [
+        "College Four(4) wheeler parking",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/4%20wheeler%20parking.jpg?alt=media&token=c7d543ed-0b85-4a64-8b51-ad64b2255f77"
+    ],
+    [
+        "Training and Placement cordinator",
+        "Prof.Vijay Sarode Sir is the Training and Placement cordinator"
+    ],
+    [
+        "ggsf Campus master plan(map)",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/clg%20map.jpg?alt=media&token=b84af593-523c-4016-88fd-e8b13b5f5bde"
+    ],
+    [
+        "College canteen",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/canteen.jpg?alt=media&token=8f61fa24-b3cc-44d1-95b3-9def5180a107"
+    ],
+    [
+        "College Workshop",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Workshop.jpg?alt=media&token=98459b4d-cb78-4d4d-97fc-e57ab993a7cd"
+    ],
+    [
+        "ground floor map(plan)",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/ground%20floor%20plan.jpg?alt=media&token=50360e41-de20-4cd0-9878-dcc7267c8c13"
+    ],
+    [
+        "college entry view images",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/clg%20entry.jpg?alt=media&token=ca6be426-7ccd-4426-9940-6a46fe507f4c"
+    ],
+    [
+        "ragging posters",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/ragging.jpg?alt=media&token=25b01ddb-a709-46cc-b5ce-bd64cdec193a"
+    ],
+    [
+        "College learning library",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/library.jpg?alt=media&token=688337c7-d8f1-4f52-a5bb-083571df58d9"
+    ],
+    [
+        "classrooms at third and second floor",
+        "THIRD FLOOR Classrooms \n\n310 \n311 \n320 \n323 \n\nSECOND FLOOR Classrooms \n\n208 \n209 \n210"
+    ],
+    [
+        "310 Classroom",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/310%20class.jpg?alt=media&token=8decec7d-ab4b-4720-8b19-e78a915359b2"
+    ],
+    [
+        "311 Classroom",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/311%20class.jpg?alt=media&token=16a8454b-b9f5-411e-8cca-e77999157e81"
+    ],
+    [
+        "320 Classroom",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/320%20class.jpg?alt=media&token=fbbc6876-b723-4730-9cc8-86debe390027"
+    ],
+    [
+        "323 Conference room",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/third%20floor%20conference.jpg?alt=media&token=7a4c02d9-4418-40fe-bc3b-9781ad29d2c9"
+    ],
+    [
+        "208,209,210 classrooms",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/208%20209%20210.jpg?alt=media&token=a762cdbe-3a64-49a8-a8ff-4bf38d1ec282"
+    ],
+    [
+        "207 faculty room(class)",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/207%20faculty.jpg?alt=media&token=fe456eb0-f0a6-42d7-8b25-b887e00f0553"
+    ],
+    [
+        "202 computer Centre",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/202%20computer%20centre.jpg?alt=media&token=a6460926-00eb-43a7-9773-a61c7bee1acb"
+    ],
+    [
+        "203 Language Lab",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/203%20language%20lab.jpg?alt=media&token=c29387c5-3ee2-4ee2-944f-b6998054c82b"
+    ],
+    [
+        "Computer department building floor",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/computer%20dept%20building.jpg?alt=media&token=01e4e5dd-0dc7-469f-b6e0-68557e909be5"
+    ],
+    [
+        "fe 2019 pattern syllabus sppu pdf",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/fe%202019%20syllabus.pdf?alt=media&token=f74911dc-73c2-4456-a5a8-75548b2469bb"
+    ],
+    [
+        "se computer 2019 pattern syllabus sppu pdf",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/SE-Computer-Engg-2019-Patt.pdf?alt=media&token=ff3f2588-0c20-490a-9199-025aecc8fd2f"
+    ],
+    [
+        "te computer 2019 pattern syllabus sppu pdf",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/TE_Computer_2019_Course_revised_draft_7June2021.pdf?alt=media&token=26a37f0d-03f5-4546-ba7d-6fc9e21b0329"
+    ],
+    [
+        "be computer 2019 pattern syllabus sppu pdf",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/BE_Computer_Engineering_Syllabus_2019_Course.pdf?alt=media&token=a4bba950-1ef4-4a4d-bc92-2b9969da25e4"
+    ],
+    [
+        "Chatbot Project Developed By ",
+        "Ketan Mali \n Rutik Mandlik \n Tina Lokhande \n Vaishnavi Borse"
+    ],
+    [
+        "Vision and Mission Of the GCOERC College",
+        "Vision : “An institute striving for excellence in providing transformative academic education and stimulating environment for research to enhance skills for developing intellectuals and to inculcate quality education with social and technical knowledge which will benefit the society and industrial challenges. \n”Mission : “To be a technical educational Institute in transforming aspiring engineers through rigorous course work and technical skills . To benchmark with the best global standards of quality education To enhance commitment of the faculty, staff and students by inculcating the spirit of inquiry, team work and professionalism Establish a centre of excellence to enhance academia-industry partnership, work on collaborative projects, and develop new products, services and patents. To develop globally competent students by enhancing indigenous technologies and inculcate entrepreneurship in them"
+    ],
+    [
+        "President Guru Gobind Singh Foundation,Nashik",
+        "S. BALBIR SINGH CHHABRA"
+    ],
+    [
+        "Secretary Guru Gobind Singh Foundation,Nashik",
+        "S. KULJEET SINGH BIRDI"
+    ],
+    [
+        "Silent features of GCOERC:",
+        "strong team of highly qualified, experienced and committed Teaching Faculty \nLatest Modern Equipment in laboratories in every department \nDedicated 100 Mbps leased line, Wi-Fi enabled internet campus \nElaborate monitoring of campus through strategically installed CCTV cameras for full-proof security \nWell stocked main and e-libraries with more than 5500+ books, Access to 900+ On-line journals and 33 printed journals \nWell-furnished Seminar Hall in each department \nPurposefully designed 400+ capacity Auditorium \nBook-bank scheme, open access to e-books and e-journals and digital library \nExcellent Bus, Cafeteria and Sports facilities for Students as well as Staff, special tutors for Yoga and Spoken English throughout the semesters \nPure and Safe RO-drinking water for students and staff all over the campus \nSeparate and well-furnished hostels for boys and girls \nCafeteria serves variety of Indian and fast-food \nMany Skill Development courses under PMKVY scheme. \nJoint Certification Courses from Bosch and Siemens under Institute Industry Partnership."
+    ],
+    [
+        "Organization Chart",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/organization%20chart.jpg?alt=media&token=3c22b9b8-d4ef-4eba-b8aa-4d76ab113974"
+    ],
+    [
+        "documents for admission",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/documents%20for%20admission.jpg?alt=media&token=cec2a65e-43c6-497c-8fb0-446c93ad8aff"
+    ],
+    [
+        "Brochure",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Brochure.jpg?alt=media&token=0a78e833-a51c-464e-95f1-9c1c0ff8d532"
+    ],
+    [
+        "Techguru 2022-23",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/techguru.pdf?alt=media&token=23cc541e-9e88-477a-a3ea-75a37e934ccf"
+    ],
+    [
+        "Final Newsletter April to June 2023",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Final%20Newsletter%20April%20to%20June%202023%20(1).pdf?alt=media&token=06318428-7305-4488-bdf5-079a9a0a756f"
+    ],
+    [
+        "GGSF mp3",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/GGSF%20%202023.mp3?alt=media&token=705449b5-95a1-4c52-a135-fe04ee8d3e85"
+    ],
+    [
+        "ABOUT Computer department",
+        "The department of Computer Engineering is committed to the cause of growth and advancement of computer related technologies. The department will commence from 2019-20 with the aim of acquainting students with the latest trends in Computer Engineering. The Department has faculty members with both industrial and academic experience. Students are also taught a spectrum of programming languages, spanning assembly language programming, C, Java, C++, .Net and operating systems like UNIX and Windows.The undergraduate program in Computer Engineering is essentially aimed at equipping a student with excellent programming and system related competencies."
+    ],
+    [
+        "course outcome",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Computer%20Engineering%20CO's.pdf?alt=media&token=1e8a36b8-9342-4e46-849a-bcdbc1cf7ae9"
+    ],
+    [
+        "Time Table",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Mastertimetable23-24Sem%20II.pdf?alt=media&token=f77d2a22-823b-4c4b-b76c-6576573292a3"
+    ],
+    [
+        "Memorandum of understanding(MOU)",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/MOU.pdf?alt=media&token=8d8f4db2-412c-49f8-82d6-920f2e3ba13f"
+    ],
+    [
+        "INFRASTRUCTURE",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Infra.pdf?alt=media&token=1046e485-46d2-406e-9106-d03880c0ff9a"
+    ],
+    [
+        "Faculty Achievement",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Achievement.pdf?alt=media&token=18fff789-a8fa-4e2d-a71f-714ae6ed6833"
+    ],
+    [
+        "Result academic year 2022-23",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/dept%20result.pdf?alt=media&token=70d81bb2-6a27-4205-ae44-190fed5d2c48"
+    ],
+    [
+        "Faculty details",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Faculty.pdf?alt=media&token=1a733679-429a-4bc3-99ed-a0aa57447da1"
+    ],
+    [
+        "Sports report",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Sports%20report%202023-24.pdf?alt=media&token=938a15f6-ff9d-4012-ad64-f96ba4026810"
+    ],
+    [
+        "Annual Gathering ",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Cultural%20Event.pdf?alt=media&token=9863f34e-999b-4800-8503-a1566c55188a"
+    ],
+    [
+        "Scholarships",
+        "https://mahadbt.maharashtra.gov.in/"
+    ],
+   
+    [
+        "More information about college",
+        "Go to Our Website \n https://engg.ggsf.edu.in/"
+    ],
+    [
+        "Interview Preparation",
+        "https://www.interviewbit.com/"
+    ],
+    [
+        "Computer Science Projects",
+        "https://www.geeksforgeeks.org/computer-science-projects/"
+    ],
+    [
+        "GRIEVANCE REDRESSAL PORTAL",
+        "https://portal.vmedulife.com/institute/e-grievance/home/ggsf-engineering"
+    ],
+    [
+        "Admission Enquiry",
+        "https://engg.ggsf.edu.in/admission_enquiry.php"
+    ],
+    [
+        "ERP login",
+        "https://portal.vmedulife.com/public/auth/#/login/ggsf-engineering"
+    ],
+    [
+        "Contact Us",
+        "https://engg.ggsf.edu.in/contact_us.php"
+    ],
+    [
+        "gcoerc LOGO PNG",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/website%20profile%20image.png?alt=media&token=b5162dd0-16f8-413e-bf61-23586c45833a"
+    ],
+    [
+        "who is project developer",
+        "Group 14"
+    ],
+    [
+        "College Address",
+        "Khalsa Educational Complex Guru Gobind Singh Marg, Wadala-Parhardi Road,, Annexe Nashik,, Indira Nagar, Nashik, Maharashtra 422009"
+    ],
+    
+    [
+        "Courses offered ",
+        " 1.Computer department\n2.Civil department\n3.Electrical department\n4.Mechanical department\n5.AI DS department"
+    ],
+    [
+        "College Address",
+        "Khalsa Educational Complex Guru Gobind Singh Marg, Wadala-Parhardi Road,, Annexe Nashik,, Indira Nagar, Nashik, Maharashtra 422009"
+    ],
+    [
+        "What is Cloud Computing",
+        "https://firebasestorage.googleapis.com/v0/b/chatbot-e13a0.appspot.com/o/Introduction%20to%20Cloud%20Computing%20ll%20Cloud%20Computing%20Course%20Explained%20with%20Real%20Life%20Examples%20in%20Hindi.mp4?alt=media&token=45aab583-021b-48fd-919d-d9a1b7484572"
+    ]
+]
